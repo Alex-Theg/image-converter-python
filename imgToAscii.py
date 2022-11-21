@@ -6,7 +6,8 @@ import imgLib
 
 highDefinition = False
 # imageURL = 'WhiteBlock.png'
-# imageURL = 'BlackBLock.png'
+# imageURL = 'BlackBlock.png'
+# imageURL = 'BlackBlock_6x6.png'
 imageURL = 'Sample.png'
 
 # 70 levels of gray
