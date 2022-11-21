@@ -14,8 +14,6 @@ def binArray(imgArray, binX = 1, binY = 1):
     b = 0
     newArray = []
 
-
-
     start_x = a * binX
     end_x = start_x + binX
     start_y = b * binY
@@ -51,5 +49,5 @@ def compressCell(data, start_x, end_x, start_y, end_y):
             i += 1
         j += 1
 
-
     return cell
+    
